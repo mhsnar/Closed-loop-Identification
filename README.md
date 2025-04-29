@@ -31,3 +31,21 @@ DataPreProccCT_Z.m
 
 input: OutputVector_i, for i=X,Y,Z.
 Output:K1, K2
+
+## Citing DisREAP:
+
+If you use the DisREAP Toolbox, please use the following BibTeX entry:
+```bibtex
+
+@INPROCEEDINGS{Amiri:REAP-T,
+AUTHOR="{Mohsen Amiri and Mehdi Hosseinzadeh",
+TITLE="REAP-T: A MATLAB Toolbox for Implementing Robust-to-Early Termination Model Predictive Control",
+BOOKTITLE="..... ",
+ADDRESS="........",
+
+ABSTRACT="........."}
+
+
+
+
+
