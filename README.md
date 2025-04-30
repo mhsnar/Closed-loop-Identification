@@ -1,4 +1,4 @@
-# 1. Data Collection
+## 1. Data Collection
 Collect data with decoupled dynamics using:
 Data_Collection_CT_Decoupled_X.m
 Data_Collection_CT_Decoupled_Y.m
