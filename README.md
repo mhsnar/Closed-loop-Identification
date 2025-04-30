@@ -8,7 +8,7 @@ Input: Motion Capture System, Agent.
 Output: Training_CT_TestDay_i.mat, for i=X,Y,Z. / Testing_CT_TestDay_i.mat, for i=X,Y,Z.
 
 
-# 2. Data Processing
+## 2. Data Processing
 Compute velocity and acceleration
 
 DataPreProccCT_X.m
